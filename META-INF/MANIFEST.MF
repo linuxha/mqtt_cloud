@@ -1,0 +1,7 @@
+SAR-Version: 1.0
+Author: njc
+Sketch-Name: mqtt_cloud
+Libraries: DHT22 PubSubClient Ethernet DSPI
+Board: fubarino-mini
+Core: chipkit
+Archived: 20151022_080627
